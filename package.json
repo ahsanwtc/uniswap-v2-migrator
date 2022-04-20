@@ -1,0 +1,24 @@
+{
+  "name": "uniswap-v2-migrator",
+  "version": "1.0.0",
+  "description": "Migrator of liquidity attack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsanwtc/uniswap-v2-migrator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsanwtc/uniswap-v2-migrator/issues"
+  },
+  "homepage": "https://github.com/ahsanwtc/uniswap-v2-migrator#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0"
+  }
+}
